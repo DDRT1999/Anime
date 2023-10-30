@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="某大叔的VRMMO活动记", 《某大叔的VRMMO活动记》 PV
+https://cdn.discordapp.com/attachments/973615798436368425/1161957116630802432/A_Playthrough_of_a_Certain_Dudes_VRMMO_Life_PV.mp4
 #EXTINF:-1 group-title="某大叔的VRMMO活动记", 《某大叔的VRMMO活动记》 第1集 大地, 登入游戏
 https://cdn.discordapp.com/attachments/973615798436368425/1159090807186395216/10VRMMO_01.mp4
 #EXTINF:-1 group-title="某大叔的VRMMO活动记", 《某大叔的VRMMO活动记》 第2集 大地, 初次组队
@@ -24,5 +26,3 @@ https://cdn.discordapp.com/attachments/973615798436368425/1168629740589035641/10
 
 #EXTINF:-1 group-title="某大叔的VRMMO活动记", 【完结】《某大叔的VRMMO活动记》 第12集
 
-#EXTINF:-1 group-title="某大叔的VRMMO活动记", 《某大叔的VRMMO活动记》 PV
-https://cdn.discordapp.com/attachments/973615798436368425/1161957116630802432/A_Playthrough_of_a_Certain_Dudes_VRMMO_Life_PV.mp4
